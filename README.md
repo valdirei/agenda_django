@@ -1,2 +1,2 @@
 # agenda_django
-Projeto para o curso de Python
+Projeto para o curso d Python
